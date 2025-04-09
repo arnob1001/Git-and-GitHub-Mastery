@@ -1,3 +1,9 @@
-feature1
-feature2
-feature3
+open a file and open the gitbash in that file 
+open a .txt file there and type git init
+write something on .txt file 
+type git init 
+then git add ./
+then git commit 
+then open a GitHub repo to the GitHub 
+then push to GitHub remote orgin 
+then open some branch and do merge and pull request operation
