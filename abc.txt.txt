@@ -7,3 +7,5 @@ then git commit
 then open a GitHub repo to the GitHub 
 then push to GitHub remote orgin 
 then open some branch and do merge and pull request operation
+
+bugfix done
